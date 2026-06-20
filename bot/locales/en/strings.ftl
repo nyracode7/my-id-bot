@@ -4,7 +4,6 @@ bot-username = my_id_bot
 # do not translate!
 bot-group-deeplink = https://t.me/{bot-username}?startgroup=id
 
-source-code-link = https://github.com/MasterGroosha/my-id-bot
 
 cmd-start =
     Your Telegram ID is { $id }
