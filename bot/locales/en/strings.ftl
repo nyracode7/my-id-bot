@@ -1,5 +1,5 @@
 # without @ !
-bot-username = my_id_bot
+bot-username = PremiumGetUserIDBot
 
 # do not translate!
 bot-group-deeplink = https://t.me/{bot-username}?startgroup=id
